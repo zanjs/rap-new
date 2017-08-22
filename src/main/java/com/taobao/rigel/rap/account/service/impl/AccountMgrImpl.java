@@ -232,9 +232,9 @@ public class AccountMgrImpl implements AccountMgr {
 
         password = password.trim();
 
-        if (password.length() < 6) {
-            return "密码必须大于等于6位";
-        }
+//        if (password.length() < 6) {
+//            return "密码必须大于等于6位";
+//        }
 
         return null;
     }

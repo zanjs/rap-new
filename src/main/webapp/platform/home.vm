@@ -109,9 +109,9 @@
 
     <!-- Jumbotron -->
     <div class="jumbotron" style="margin-top:100px;">
-        <h1>RAP</h1>
+        <h1>MCY</h1>
 
-        <p class="lead">RAP是一个可视化接口管理工具
+        <p class="lead">MCY是一个可视化接口管理工具
             通过分析接口结构，动态生成模拟数据，校验真实接口正确性，
             围绕接口定义，通过一系列自动化工具提升我们的协作效率。我们的口号：提高效率，回家吃晚饭！</p>
     </div>
@@ -134,7 +134,9 @@
             <p>覆盖阿里几乎所有部门，有200+公司正在使用RAP，历经4年积累大量经验，可适应各种复杂的业务场景。</p>
         </div>
     </div>
-
+    <div class="row">
+        <img src="${staticRoot}/img/rar.jpg?_r=$!timeStamp" alt="">
+    </div>
 </div>
 <!-- /container -->
 

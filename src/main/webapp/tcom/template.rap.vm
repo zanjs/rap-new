@@ -36,9 +36,8 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="/">
-                    <i class="iconlogo mi-rap"></i>
                     <span class="logo-text">
-                        <span id="rap-logo-text">RAP</span> 
+                        <span id="rap-logo-text">MCY</span>
                         <span>v0.15.2</span>
                         <span style="color:#cc0000; font-size:10px;">&nbsp;&nbsp;beta</span></span>
                 </a>
@@ -221,7 +220,7 @@
     <footer style="margin-top: 40px; text-align: center;">
         <p>
             <span id="_logOnline">-</span>
-            <span>人在使用 RAP，今日 Mock 服务被调用</span>
+            <span>人在使用 ，今日 Mock 服务被调用</span>
             <span id="_logMockNumToday">-</span>
             <span>次</span>
         </p>
