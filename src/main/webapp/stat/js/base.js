@@ -3425,8 +3425,6 @@ $(function () {
 
     var helpText = '<div>- 不会用RAP？RAP 5分钟介绍视频在 <a href="http://cloud.video.taobao.com//play/u/11051796/p/1/e/1/t/1/11622279.swf" target="_blank">这里</a></div>\
 		<div>- 不会写Mockjs？我们为您准备了 <a href="http://mockjs.com" target="_blank">文档</a> 和 <a href="/workspace/myWorkspace.action?projectId=79&mock=true&actionId=828" target="_blank">示例</a></div>\
-		<div>- 遇到RAP的bug了？欢迎到 <a href="https://github.com/thx/RAP/issues/new" target="_blank">这里</a> 提交issue</div>\
-		<div>- 想看看RAP官网文档？请点击 <a href="http://thx.github.io/RAP" target="_blank">这里</a></div>\
 		';
 
     $(html).appendTo('body');

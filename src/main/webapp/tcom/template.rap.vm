@@ -39,7 +39,7 @@
                     <i class="iconlogo mi-rap"></i>
                     <span class="logo-text">
                         <span id="rap-logo-text">RAP</span> 
-                        <span>v0.14.12</span>
+                        <span>v0.15.2</span>
                         <span style="color:#cc0000; font-size:10px;">&nbsp;&nbsp;beta</span></span>
                 </a>
             </div>
@@ -85,13 +85,8 @@
                     #else
                         <li><a href="$platformUrl.home">主页</a></li>
                     #end
-
-                    <li><a href="$platformUrl.doc" target="_blank">文档</a></li>
                     <li style="display:none;"><a href="$platformUrl.test">测试</a></li>
                     <li><a href="$platformUrl.log">数据</a></li>
-                    <li><a href="$platformUrl.study" target="_blank">教程
-                        <!-- <span style="color:yellow;"> (new)</span> -->
-                    </a></li>
 
                     #if($isLogined)
                         <li>
