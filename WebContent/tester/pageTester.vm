@@ -2,8 +2,8 @@
 <html>
     #parse('/tcom/template.rap.vm')
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>RAP - $!utils.escapeInH($page.name)控制台</title>
+        <meta http-equiv=MCY"Content-Type" content="text/html; charset=utf-8" />
+        <title> - $!utils.escapeInH($page.name)控制台</title>
         <link rel="shortcut icon" href="${staticRoot}/img/favicon.ico">
 
         #includeNewRapStatic

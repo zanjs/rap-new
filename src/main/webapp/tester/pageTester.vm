@@ -3,7 +3,7 @@
     #parse('/tcom/template.rap.vm')
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>RAP - $!utils.escapeInH($page.name)控制台</title>
+    <title>MCY - $!utils.escapeInH($page.name)控制台</title>
     <link rel="shortcut icon" href="${staticRoot}/img/favicon.ico">
 
     #includeNewRapStatic
@@ -93,9 +93,5 @@
     <script src="./pageTester.js"></script>
 </div>
 #bodyEnd
-<foot>
-    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-    document.write(unescape("%3Cspan id='cnzz_stat_icon_5879641'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/stat.php%3Fid%3D5879641%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
-</foot>
 </body>
 </html>

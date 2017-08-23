@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>RAP Dashboard for Team</title>
+    <title>MCY Dashboard for Team</title>
     #parse('/tcom/template.rap.vm')
     #includeNewRapStatic
     <link rel="shortcut icon" href="/stat/img/favicon.ico">

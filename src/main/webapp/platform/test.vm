@@ -3,16 +3,16 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>RAP自动化测试套件 </title>
+    <title>自动化测试套件 </title>
     <link rel="shortcut icon" href="${staticRoot}/img/favicon.ico">
     #includeNewRapStatic
     <link href="../stat/qunit/qunit.css" rel="stylesheet"/>
 </head>
 <body>
 #bodyNewStart
-<div id="container">
-    <h1 id="qunit-header">RAP自动化测试套件<span
-            style="font-size:14px; margin-left:10px;">（如果测试不通过，请保留现场，并告知 @思竹 or @霍雍，多谢~）</span></h1>
+<div id="container">MCY
+    <h1 id="qunit-header">自动化测试套件<span
+            style="font-size:14px; margin-left:10px;">（如果测试不通过，请保留现场，并告知 @赞生，多谢~）</span></h1>
 
     <h2 id="qunit-banner"></h2>
 
