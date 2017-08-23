@@ -3413,9 +3413,9 @@ $(function () {
     }
     var html = '<div class="helper-tip">\
 		<div class="dialog-item say-hi">\
-			<span class="name">RAP小助手</span>\
+			<span class="name">MCY小助手</span>\
 			<div class="content">\
-				<div>哒哒啦~ 我是RAP小助手，欢迎您使用RAP~~~</div>\
+				<div>哒哒啦~ 我是MCY小助手，欢迎您使用MCY~~~</div>\
 			</div>\
 		</div>\
 		<div class="mask" style="width: 100px; height: 100px;">\
@@ -3423,7 +3423,7 @@ $(function () {
 		<img src="/stat/img/yellow.png" width="100""/>\
 	</div>';
 
-    var helpText = '<div>- 不会用RAP？RAP 5分钟介绍视频在 <a href="http://cloud.video.taobao.com//play/u/11051796/p/1/e/1/t/1/11622279.swf" target="_blank">这里</a></div>\
+    var helpText = '<div>- 不会用MCY？ 5分钟介绍视频在 <a href="http://cloud.video.taobao.com//play/u/11051796/p/1/e/1/t/1/11622279.swf" target="_blank">这里</a></div>\
 		<div>- 不会写Mockjs？我们为您准备了 <a href="http://mockjs.com" target="_blank">文档</a> 和 <a href="/workspace/myWorkspace.action?projectId=79&mock=true&actionId=828" target="_blank">示例</a></div>\
 		';
 

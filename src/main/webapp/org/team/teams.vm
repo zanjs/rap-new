@@ -2,7 +2,7 @@
     #parse('/tcom/template.rap.vm')
 <html>
 <head>
-    <title>欢迎使用RAP </title>
+    <title>欢迎使用MCY </title>
     #includeNewRapStatic
 </head>
 <body>
